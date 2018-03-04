@@ -15,3 +15,5 @@ http://oeasy.org/ps/ps.html
 也可以前往Bilibili观看视频[https://www.bilibili.com/video/av875977/?from=search&seid=14437610036759281835](https://www.bilibili.com/video/av875977/?from=search&seid=14437610036759281835)
 
 这是一套完整的教程，有条件的话，可以在别人制作海报的过程光看一下，有很多小细节有人提示一下的话会非常有用。
+
+# 未完待续
