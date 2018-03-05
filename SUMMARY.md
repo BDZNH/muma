@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [关于](ABOUT.md)
 * [一、关于版权](chapter1.md)
 * [二、Photoshop相关](chapter2.md)
   * [安装](chapter2-1.md)
