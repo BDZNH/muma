@@ -10,6 +10,8 @@
 安装过程可以参考这个链接[https://jingyan.baidu.com/article/b7001fe1bbf0d20e7382dd5a.html](https://jingyan.baidu.com/article/b7001fe1bbf0d20e7382dd5a.html)
 
 需要提醒的是，安装之前断开网络，这样就可以跳过登录。
+安装过程十分简单，链接内为2017版本，点击Setup，就会自动安装了，安装好之后会自行自动并询问是否要登陆Adobe账号或者是否要开始为期7天的试用等等。
+ 
 
 # 安装失败时的解决办法
 
